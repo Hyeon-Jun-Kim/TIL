@@ -1,5 +1,5 @@
 
-#TIL
+#Study Log
 Today I Learned
 
 [2022.07.13]
@@ -8,4 +8,9 @@ Today I Learned
 - Litterals & Types
 - Type Conversion
 - Basic Operators
+
+[2022.07.14]
 - Function
+- Optional
+- Collection
+- Enumeration
