@@ -12,5 +12,7 @@ Today I Learned
 [2022.07.14]
 - Function
 - Optional
+
+[2022.07.15]
 - Collection
 - Enumeration
