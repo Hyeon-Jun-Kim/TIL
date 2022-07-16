@@ -16,3 +16,6 @@ Today I Learned
 [2022.07.15]
 - Collection
 - Enumeration
+
+[2022.07.16]
+- Closure
