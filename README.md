@@ -19,3 +19,6 @@ Today I Learned
 
 [2022.07.16]
 - Closure
+
+[2022.07.17]
+- Computer Science
