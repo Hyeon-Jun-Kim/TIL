@@ -21,4 +21,7 @@ Today I Learned
 - Closure
 
 [2022.07.17]
-- Computer Science
+- Computer Science(Network)
+
+[2022.07.18]
+- Computer Science(SQL)
