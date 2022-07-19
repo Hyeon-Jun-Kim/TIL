@@ -25,3 +25,6 @@ Today I Learned
 
 [2022.07.18]
 - Computer Science(SQL)
+
+[2022.07.19]
+- Computer Science(OS)
