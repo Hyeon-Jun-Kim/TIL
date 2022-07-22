@@ -28,3 +28,6 @@ Today I Learned
 
 [2022.07.19]
 - Computer Science(OS)
+
+[2022.07.22]
+- Computer Science(Software Security)
