@@ -31,3 +31,6 @@ Today I Learned
 
 [2022.07.22]
 - Computer Science(Software Security)
+
+[2022.07.23]
+- Preparing for the information processing engineer test
