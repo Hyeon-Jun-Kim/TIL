@@ -34,3 +34,6 @@ Today I Learned
 
 [2022.07.23]
 - Preparing for the information processing engineer test
+
+[2022.07.25]
+- UIkit : Frame
