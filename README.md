@@ -37,3 +37,6 @@ Today I Learned
 
 [2022.07.25]
 - UIkit : Frame
+
+[2022.07.26]
+- UIKit : Frame Exercise
