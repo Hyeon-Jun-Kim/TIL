@@ -40,3 +40,7 @@ Today I Learned
 
 [2022.07.26]
 - UIKit : Frame Exercise
+
+[2022.07.27]
+- Frame And Bounds
+- Rating Example App(By StoryBoard)
