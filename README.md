@@ -47,3 +47,7 @@ Today I Learned
 
 [2022.07.28]
 - Frame And Bounds Exercise
+
+[2022.07.29]
+- Protocol
+- Generic
