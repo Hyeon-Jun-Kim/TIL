@@ -51,3 +51,6 @@ Today I Learned
 [2022.07.29]
 - Protocol
 - Generic
+
+[2022.07.31]
+- Project Water For Coffee UI Design
