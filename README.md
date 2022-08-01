@@ -54,3 +54,6 @@ Today I Learned
 
 [2022.07.31]
 - Project Water For Coffee UI Design
+
+[2022.08.01]
+- Rating Example App(By Code)
