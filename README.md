@@ -57,3 +57,7 @@ Today I Learned
 
 [2022.08.01]
 - Rating Example App(By Code)
+
+[2022.08.02]
+- Rroject Water For Coffee Development Plan
+- MVC Pattern Learning
