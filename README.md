@@ -61,3 +61,7 @@ Today I Learned
 [2022.08.02]
 - Rroject Water For Coffee Development Plan
 - MVC Pattern Learning
+
+[2022.08.03]
+- Component-Starter APP
+- MVC Pattern
