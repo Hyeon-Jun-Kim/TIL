@@ -65,3 +65,6 @@ Today I Learned
 [2022.08.03]
 - Component-Starter APP
 - MVC Pattern
+
+[2022.08.04]
+- water For coffee - Graph by Cafe Page
