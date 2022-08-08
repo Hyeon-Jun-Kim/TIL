@@ -71,3 +71,7 @@ Today I Learned
 
 [2022.08.05]
 - water for coffee - tableview cafe Page
+
+[2022/08/08]
+- AutoLayout 
+- StackView
