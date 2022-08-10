@@ -67,11 +67,15 @@ Today I Learned
 - MVC Pattern
 
 [2022.08.04]
-- water For coffee - Graph by Cafe Page
+- water For coffee - Cafe Detail : Graph
 
 [2022.08.05]
-- water for coffee - tableview cafe Page
+- water for coffee - Cafe Detail : Table
 
 [2022/08/08]
 - AutoLayout 
 - StackView
+
+[2022/08/08]
+- custom View
+- water for coffee - Cafe Detail : Add Data
