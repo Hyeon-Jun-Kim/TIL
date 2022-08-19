@@ -78,4 +78,7 @@ Today I Learned
 
 [2022/08/08]
 - custom View
-- water for coffee - Cafe Detail : Add Data
+- water for coffee - Cafe Detail : Add Data 30%
+
+[2022/08/19]
+- water for coffee - Cafe Detaol : Add Data 80% 
