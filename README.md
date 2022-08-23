@@ -82,3 +82,6 @@ Today I Learned
 
 [2022/08/19]
 - water for coffee - Cafe Detaol : Add Data 80% 
+
+[2022/08/23]
+- MVVM pattern 
