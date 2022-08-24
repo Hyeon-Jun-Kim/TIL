@@ -85,3 +85,7 @@ Today I Learned
 
 [2022/08/23]
 - MVVM pattern 
+
+[2022/08/24]
+- User Default
+- Animation
