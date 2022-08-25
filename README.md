@@ -89,3 +89,6 @@ Today I Learned
 [2022/08/24]
 - User Default
 - Animation
+
+[2022/08/25]
+- Water for coffee - Cafe Table Data : cirecle calculate
