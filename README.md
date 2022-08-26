@@ -91,4 +91,8 @@ Today I Learned
 - Animation
 
 [2022/08/25]
-- Water for coffee - Cafe Table Data : cirecle calculate
+- Water for coffee - Cafe Table Data : cirecle calculate (70%)
+
+[2022/08/25]
+- Water for coffee - Cafe Table Data : cirecle calculate (100%)
+- Water for coffee - Graph : Display dot when click the row (20%)
