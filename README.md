@@ -96,3 +96,6 @@ Today I Learned
 [2022/08/25]
 - Water for coffee - Cafe Table Data : cirecle calculate (100%)
 - Water for coffee - Graph : Display dot when click the row (20%)
+
+[2022/08/28]
+- Water for coffee - Core Data (30%)
