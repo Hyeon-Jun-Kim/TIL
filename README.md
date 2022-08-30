@@ -99,3 +99,6 @@ Today I Learned
 
 [2022/08/28]
 - Water for coffee - Core Data (30%)
+
+[2022/08/30]
+- Water for coffee - Core Data (85%)
