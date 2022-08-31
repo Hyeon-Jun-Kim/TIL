@@ -102,3 +102,7 @@ Today I Learned
 
 [2022/08/30]
 - Water for coffee - Core Data (85%)
+
+[2022/08/31]
+- Water for coffee - Core Data
+- Water for coffee - Data Detail Controller
