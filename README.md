@@ -106,3 +106,6 @@ Today I Learned
 [2022/08/31]
 - Water for coffee - Core Data
 - Water for coffee - Data Detail Controller
+
+[2022/09/01]
+- Water for coffee - Graph Dot : Notification Center (70%)
