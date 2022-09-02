@@ -109,3 +109,8 @@ Today I Learned
 
 [2022/09/01]
 - Water for coffee - Graph Dot : Notification Center (70%)
+
+[2022/09/02]
+- Water for coffee - Graph Dor : Notification Center (100%)
+- Water for coffee - Graph : Graph Ratio - Dot Set X, Y (Troubleshooting)
+- Water for coffee - Add Data : enable/disable Key board set 
